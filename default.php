@@ -178,7 +178,7 @@
                     rel="nofollow"
                     target="_blank"
                 >
-                    How to install WordPress using Auto Installer?
+                    How to install WordPress using Unical Auto Installer?
                     <svg class="ic-launch" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path 
                             fill-rule="evenodd" 
