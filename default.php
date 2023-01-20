@@ -154,7 +154,7 @@
                 </defs>
             </svg>
             <h1>You Are All Set to Go Unical!</h1>
-            <p>All you have to do now is upload your website files and start your journey. Check out how to do that below:</p>
+            <p>Shiva Shankar K</p>
             <div class="link-container">
                 <a 
                     class=link
