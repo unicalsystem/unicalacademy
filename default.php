@@ -153,7 +153,7 @@
                     />
                 </defs>
             </svg>
-            <h1>Unical Academy From Git</h1>
+            <h1>Unical Academy From Git With Srikanth</h1>
             <p>All you have to do now is upload your website files and start your journey. Check out how to do that below:</p>
             <div class="link-container">
                 <a 
